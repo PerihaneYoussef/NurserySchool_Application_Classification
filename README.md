@@ -1,4 +1,4 @@
-# Classification of nursery School Applications 
+# Classification of nursery school applications 
 
 ## Idea
 
