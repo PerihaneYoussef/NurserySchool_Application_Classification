@@ -13,3 +13,6 @@ Choosing the best nursery for your child, where he can make use of his potential
 The dataset used for this project is "Nursery Data Set" from UCI Machine Learning Repository. Nursery Database was derived from a hierarchical decision model originally developed to rank applications for nursery schools. It was used during several years in 1980's when there was excessive enrollment to these schools in Ljubljana, Slovenia, and the rejected applications frequently needed an objective explanation. The final decision depended on three sub-problems: occupation of parents and child's nursery, family structure and financial standing, and social and health picture of the family.
 
  Further information can be found in the proposal.
+### Set The Environement
+
+The project is be built using Anaconda 3 and it doesn't require any additional libraries, but please ensure that you are using 'seaborn' 0.9.0 .
